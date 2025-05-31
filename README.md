@@ -1,1 +1,0 @@
-# metamask-recovery-phrase-
